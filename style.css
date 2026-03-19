@@ -14,6 +14,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: rgb(16, 16, 88);
 }
 .weather-app{
     background-color: var(--prim-color);
